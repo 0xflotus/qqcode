@@ -23,7 +23,7 @@ The rest is the same as QQCode.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the QQCode client sofware, see http://www.qqcode.com.
+the QQCode client software, see http://www.qqcode.com.
 
 License
 -------
